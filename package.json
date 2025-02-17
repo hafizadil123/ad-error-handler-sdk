@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["ad-error-handler-sdk", "express-error-handler", "automatic detect error", "error handler"],
+  "author": "Adil Sikandar",
   "license": "ISC",
   "lint-staged": {
     "*.js": "eslint --fix"
